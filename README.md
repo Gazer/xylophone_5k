@@ -2,15 +2,28 @@
 
 A Xylphone with less than 5k lines of Dart code
 
+---
+>Made with ❤️ by Ricardo Markiewicz [https://twitter.com/gazeria](https://twitter.com/gazeria).
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Xylphone was development for the Flutter Create contest. The idea is to
+create an app less than 5K bytes of Dart code using the Flutter framework.
 
-A few resources to get you started if this is your first Flutter project:
+For more information check the contest page: https://flutter.dev/create
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Once you run the app just ensure you volume is up and start playing.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+If unsure what to play, just hit the 'try me' button and learn a new song.
+
+<img src="/screenshots/main.png">
+
+## Sounds
+
+All notes were recorded by me using my doter's Xylophone. I've used Audacity
+for OSX with my Novik NEO FNK O2U USB microphone. Each sound has the drumstick
+sound too so it feels more real :).
+
+<img src="/screenshots/real.jpg">
+
+You can re-use the WAV files in your own project under the MIT License.
